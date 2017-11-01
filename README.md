@@ -7,3 +7,5 @@ Used dictionary to store values for each (CMTE_ID,TRANSACTION_DT) tuple for medi
 Run Instructions
 
 Can run run.sh with input and output file locations or uses default location if run from src folder.  
+
+Used 2017-2018 Contributions by Individuals file (indiv18) at http://classic.fec.gov/finance/disclosure/ftpdet.shtml#a2017_2018
